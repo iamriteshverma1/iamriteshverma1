@@ -1,91 +1,242 @@
-# Hi 👋, I'm Ritesh Verma
+<!-- ======================= HEADER ======================= -->
 
-### Computer Science Student | AI/ML Enthusiast | Web Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ritesh%20Verma&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Quantum+Computing+Explorer+%E2%9A%9B%EF%B8%8F;Problem+Solver+%26+Builder+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamriteshverma1">
+    <img src="https://komarev.com/ghpvc/?username=iamriteshverma1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/iamriteshverma1?tab=followers">
+    <img src="https://img.shields.io/github/followers/iamriteshverma1?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+</p>
+
+---
+
+# 👋 Hey there, I'm Ritesh!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
+
+<p align="center">
+  <b>Computer Science Student</b> •
+  <b>AI/ML Enthusiast</b> •
+  <b>Web Developer</b>
+</p>
+
+<p align="center">
+  I love building technology that solves real-world problems.
+  <br/>
+  Currently exploring <b>AI/ML, Web Development, Quantum Computing & DSA</b>.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student passionate about building real-world applications
-- 💻 Interested in Web Development, AI/ML & Quantum Computing
-- 🚀 Love turning ideas into practical software projects
-- 📚 Currently improving my DSA, development and problem-solving skills
-- 🌱 Always learning and exploring new technologies
+<table>
+<tr>
+<td width="55%">
+
+- 🎓 Computer Science student
+- 💻 Passionate about software development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ⚛️ Interested in Quantum Computing
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building real-world projects
+- 🌱 Constantly learning new technologies
+- 🎯 Preparing myself for exciting software engineering opportunities
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
 
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🌐 Web Development
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
 
----
+### 🤖 AI / Machine Learning
 
-## 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-### ☁️ ClearSight
-AI-based satellite image cloud removal and image reconstruction project designed to recover useful ground information from cloud-covered satellite imagery.
+### 🗄️ Database & Tools
 
-**Tech:** Python, AI/ML, Computer Vision, Image Processing
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
 
----
+### ⚛️ Exploring
 
-### 🔐 QVCFD
-Quantum + AI/ML based transaction fraud detection system designed to identify suspicious financial transactions using machine learning and quantum computing concepts.
-
-**Tech:** Python, Machine Learning, Quantum Computing, Data Analysis
-
----
-
-### 🧬 BioBalance
-A technology-driven application focused on personalized analysis and intelligent recommendations using data-driven approaches.
-
-**Tech:** Python, AI/ML, Web Development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamriteshverma&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamriteshverma&layout=compact&theme=tokyonight" height="170"/>
+<p>
+<img src="https://img.shields.io/badge/Quantum_Computing-6C3483?style=for-the-badge&logo=quantum&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ☁️ ClearSight
+
+AI-powered satellite image reconstruction system designed to recover useful information from cloud-covered satellite imagery.
+
+**⚙️ Technologies**
+
+`Python` `AI/ML` `Computer Vision` `Image Processing`
+
+</td>
+
+<td width="50%">
+
+## 🔐 QVCFD
+
+Quantum + AI/ML based transaction fraud detection system designed to identify suspicious financial transactions.
+
+**⚙️ Technologies**
+
+`Python` `Machine Learning` `Quantum Computing` `Data Analysis`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧬 BioBalance
+
+A data-driven application focused on personalized analysis and intelligent recommendations.
+
+**⚙️ Technologies**
+
+`Python` `AI/ML` `Web Development`
+
+</td>
+
+<td width="50%">
+
+## 💡 More Projects
+
+I continuously build and experiment with new ideas involving:
+
+`AI` `ML` `Web` `DSA` `Quantum Computing`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamriteshverma&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamriteshverma1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamriteshverma1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
-## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ritesh-verma-510b80337/)
-- 📧 Email: 2k24.cs1m.2413434@gmail.com
-- 🐙 GitHub: [iamriteshverma](https://github.com/iamriteshverma)
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamriteshverma1&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 💡 "Building, learning, and improving one project at a time."
+# 🏆 GitHub Trophies
 
-⭐ Feel free to explore my repositories!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamriteshverma1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+# 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamriteshverma1/iamriteshverma1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamriteshverma1&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ritesh-verma-510b80337/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:2k24.cs1m.2413434@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/iamriteshverma1">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 "Building. Learning. Improving. Every day."
+
+</p>
+
+<p align="center">
+  ⭐ <b>Feel free to explore my repositories!</b> ⭐
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
