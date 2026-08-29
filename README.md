@@ -181,22 +181,6 @@ I continuously build and experiment with new ideas involving:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamriteshverma1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamriteshverma1/iamriteshverma1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
-
 # 💻 Coding Activity
 
 <p align="center">
