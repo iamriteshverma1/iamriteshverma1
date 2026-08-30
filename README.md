@@ -171,7 +171,6 @@ I continuously build and experiment with new ideas involving:
 </p>
 
 ---
-
 # 💻 Coding Activity
 
 <p align="center">
