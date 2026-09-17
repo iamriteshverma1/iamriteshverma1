@@ -15,7 +15,12 @@
   <a href="https://github.com/iamriteshverma1?tab=followers">
     <img src="https://img.shields.io/github/followers/iamriteshverma1?style=for-the-badge&logo=github&label=Followers"/>
   </a>
+  
+  <a href="https://github.com/iamriteshverma1/iamriteshverma1/blob/main/assets/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
